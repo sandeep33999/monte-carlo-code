@@ -28,3 +28,4 @@ This project implements a Monte Carlo Radiative Transfer (MCRT) simulation to st
 
 ## Note:
 We have ploted result for UV wave you may try with IR or other as you needed
+- you may also run exe file in case of you unable to run program
